@@ -1,7 +1,5 @@
 # Результат проверки
 
-Дата: 6 ноября 2026 года (UTC+3).
-
 Проверено непосредственно на локальной Ubuntu 22.04.5 LTS x86_64 с ядром 6.8.0-138-generic и аппаратным KVM (`kvm_amd`). `/dev/kvm` доступен текущему пользователю. Каждая тестовая ВМ использовала 1 vCPU, 768 МиБ RAM, виртуальный диск 4 ГиБ и QEMU user-mode NAT. Две ВМ запускались последовательно, без GUI.
 
 Образ: официальный Ubuntu 22.04 Minimal cloud image, скачанный с `cloud-images.ubuntu.com/minimal/releases/jammy/release/ubuntu-22.04-minimal-cloudimg-amd64.img`.
